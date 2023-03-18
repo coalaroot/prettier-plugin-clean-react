@@ -4,7 +4,9 @@ For now it only sorts the objects by key's length but more is coming
 
 ## Usage
 
-`yarn add -D prettier-plugin-clean-react`
+```
+yarn add -D prettier-plugin-clean-react
+```
 
 The prettier will automatically detect the plugin.
 
